@@ -1676,7 +1676,7 @@ copyright a:hover {
                     </b:widget-settings>
                     <b:includable id='main'>
     <b:if cond='data:title != &quot;&quot;'>
-      <h2><a href='https://mordictionary.blogspot.com/p/archive.html'><data:title/></a></h2>
+      <h2><a href='https://baddiesbynight.blogspot.com/p/archive.html'><data:title/></a></h2>
     </b:if>
     <div class='widget-content'>
       <div id='ArchiveList'>
@@ -2181,7 +2181,7 @@ copyright a:hover {
             <b:widget-setting name='commentLabel'>Comment</b:widget-setting>
             <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
             <b:widget-setting name='showShareButtons'>true</b:widget-setting>
-            <b:widget-setting name='authorLabel'>By MorDictionary</b:widget-setting>
+            <b:widget-setting name='authorLabel'>By BaddiesByNight</b:widget-setting>
             <b:widget-setting name='showCommentLink'>true</b:widget-setting>
             <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
             <b:widget-setting name='showAuthor'>true</b:widget-setting>
@@ -3747,7 +3747,7 @@ window.addEventListener('DOMContentLoaded', function() {
             &#169; <script type='text/javascript'>document.write(new Date().getFullYear());</script>BaddiesByNight<br/>
             Licensed under the 
             <a href='https://opensource.org/licenses/MIT' rel='noopener noreferrer' target='_blank'>The Unlicense</a>.<br/>
-            <a href='https://github.com/MorDictionary/blogger-theme-mor-dictionary/tree/main' rel='noopener noreferrer' target='_blank'>
+            <a href='https://github.com/BaddiesbyNight/blogger-theme-baddies-by-night/tree/main' rel='noopener noreferrer' target='_blank'>
               GitHub Repository
             </a>
           </div>
