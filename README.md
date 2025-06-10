@@ -1,5 +1,5 @@
 # 🧷 Baddies By Night — Blogger Theme
-
+![Screenshot of the Baddies By Night Theme on MacBook Air](Images/ThemeScreenshotonMacbookAir.png)
 A darkly elegant and feature-rich Blogger theme crafted for writers, lexicographers, creators, and nocturnal thinkers. **Baddies By Night** combines gothic cyber aesthetics with full responsiveness, structured post rendering, semantic SEO, and delightful interactivity — all with zero dependency on modern JS frameworks.
 
 ---
